@@ -35,6 +35,11 @@ a{
     color: white;
 }
 
+#logo img{
+  width: auto;
+  padding-bottom: 20px;
+}
+
 p > a{
   color: #1fabe5;
 }
